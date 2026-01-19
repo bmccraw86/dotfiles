@@ -1,5 +1,5 @@
 # window management
-cask "spectacle"
+#cask "spectacle"
 
 # shell tools
 cask "iterm2"
