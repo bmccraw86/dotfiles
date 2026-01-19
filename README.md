@@ -11,7 +11,7 @@ love the command line, and I know you do, then grab a copy and get coding.
 ## Installation
 
 ``` bash
-git clone https://github.com/mattjmorrison/dotfiles.git ~/dotfiles
+git clone git@github.com/bmccraw86/dotfiles.git ~/dotfiles
 cd ~/dotfiles/install-scripts
 bash OSX/setup.sh
 # or
